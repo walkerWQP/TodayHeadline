@@ -8,7 +8,7 @@
 
 import UIKit
 import SwiftTheme
-
+AVFoundation
 class MyNavigationController: UINavigationController {
 
     override func viewDidLoad() {
